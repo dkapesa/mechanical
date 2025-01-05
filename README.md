@@ -28,3 +28,16 @@ Link to Python Code: https://colab.research.google.com/drive/1CTkdhxmKiSw_Jhg9G4
 Link to Document Analysis: https://docs.google.com/document/d/1VsVDbB5iL-n7QNV_Pfshn0rBOcTaIEwmGRvC5_XO9WU/edit?usp=sharing
 
 Link to the Dataset: https://docs.google.com/spreadsheets/d/1WtkG9PZrarOXKexpWmJ2d5tnDnA6WHUeBNypyTfBZ4k/edit?usp=sharing
+
+This project focuses on developing a predictive maintenance model for mechanical systems by analysing vibration data from the Case Western Reserve University (CWRU) Bearing Dataset. By applying machine learning techniques to time-series data, the model aims to detect and classify bearing faults, enabling proactive maintenance interventions that minimize downtime and extend equipment lifespan. Leveraging my mechanical engineering background, I integrate domain-specific knowledge with data science methodologies to enhance the accuracy and reliability of fault diagnosis in industrial machinery. 
+
+Learning Outcomes for me:
+
+- Data Analysis Proficiency: Enhance skills in processing and analyzing high-frequency time series data, including noise reduction and feature extraction.
+
+- Machine Learning Application: Gain hands-on experience in training and validating machine learning models for classification and regression tasks within an engineering context.
+
+- Predictive Maintenance Strategies: Develop an understanding of PdM methodologies and their practical implementation in industrial settings.
+
+- Interdisciplinary Integration: Apply mechanical engineering principles in conjunction with data science techniques to solve complex predictive maintenance challenges.
+

@@ -22,3 +22,9 @@ Key Questions to Address:
 4.	Mechanical Correlation: How do the identified vibration signal patterns correspond to known mechanical failure modes in bearings, and what insights can be drawn for maintenance planning?
 5.	Practical Implementation: What are the challenges and considerations in deploying the developed predictive maintenance model in a real-world industrial environment?
 By addressing these questions, the project not only demonstrates technical proficiency in data analysis and machine learning but also showcases the ability to apply engineering knowledge to practical, industry-relevant problems.
+
+Link to Python Code: https://colab.research.google.com/drive/1CTkdhxmKiSw_Jhg9G4b7xDoORSB_1FRG?usp=sharing
+
+Link to Document Analysis: https://docs.google.com/document/d/1VsVDbB5iL-n7QNV_Pfshn0rBOcTaIEwmGRvC5_XO9WU/edit?usp=sharing
+
+Link to the Dataset: https://docs.google.com/spreadsheets/d/1WtkG9PZrarOXKexpWmJ2d5tnDnA6WHUeBNypyTfBZ4k/edit?usp=sharing

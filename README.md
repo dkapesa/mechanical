@@ -14,6 +14,9 @@ Leveraging this dataset, the project aims to develop a machine learning model ca
 4.	Model Evaluation: Assessing the performance of the classifiers using metrics like accuracy, precision, recall, and F1-score to ensure reliable fault detection and classification.
 5.	Predictive Analysis: Implementing time series forecasting models, potentially utilising Long Short-Term Memory (LSTM) networks, to predict the remaining useful life (RUL) of bearings, thereby enabling timely maintenance interventions.
 
+
+This project involves developing a predictive maintenance system for mechanical bearings by analysing vibration data from the Case Western Reserve University (CWRU) Bearing Dataset. Utilising Python, I preprocess high-frequency time series data to extract statistical and frequency-domain features indicative of bearing health. Applying machine learning algorithms, I train models to detect and classify bearing faults, such as defects in the ball, inner race, or outer race. Additionally, I implement time series forecasting techniques to predict the remaining useful life of bearings, enabling proactive maintenance scheduling. This project integrates my mechanical engineering knowledge in stress and dynamic analysis with advanced data analysis and machine learning skills (i've learnt so far) to enhance machinery reliability and operational efficiency.
+
 Key Questions to Address:
 
 1.	Feature Selection: Which statistical and frequency-domain features are most indicative of specific bearing faults, and how does their selection impact model accuracy?

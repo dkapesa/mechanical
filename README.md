@@ -32,11 +32,13 @@ Link to Document Analysis: https://docs.google.com/document/d/1VsVDbB5iL-n7QNV_P
 
 Link to the Dataset: https://docs.google.com/spreadsheets/d/1WtkG9PZrarOXKexpWmJ2d5tnDnA6WHUeBNypyTfBZ4k/edit?usp=sharing
 
-This project focuses on developing a predictive maintenance model for mechanical systems by analysing vibration data from the Case Western Reserve University (CWRU) Bearing Dataset. By applying machine learning techniques to time-series data, the model aims to detect and classify bearing faults, enabling proactive maintenance interventions that minimize downtime and extend equipment lifespan. Leveraging my mechanical engineering background, I integrate domain-specific knowledge with data science methodologies to enhance the accuracy and reliability of fault diagnosis in industrial machinery. 
+Context about the CWRU Dataset: https://medium.com/@NameerAkhter/all-you-need-to-know-about-cwru-dataset-8d391577d8f2
+
+This project focuses on developing a predictive maintenance model for mechanical systems by analysing vibration data from the Case Western Reserve University (CWRU) Bearing Dataset. The CWRU bearing dataset stands out as a valuable asset for researchers and practitioners interested in developing and testing algorithms for detecting and diagnosing bearing faults in industrial machinery. By applying machine learning techniques to time-series data, the model aims to detect and classify bearing faults, enabling proactive maintenance interventions that minimise downtime and extend equipment lifespan. Leveraging my mechanical engineering background, I integrate domain-specific knowledge with data science methodologies to enhance the accuracy and reliability of fault diagnosis in industrial machinery. 
 
 Learning Outcomes for me:
 
-- Data Analysis Proficiency: Enhance skills in processing and analyzing high-frequency time series data, including noise reduction and feature extraction.
+- Data Analysis Proficiency: Enhance skills in processing and analysing high-frequency time series data, including noise reduction and feature extraction.
 
 - Machine Learning Application: Gain hands-on experience in training and validating machine learning models for classification and regression tasks within an engineering context.
 

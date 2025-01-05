@@ -1,3 +1,5 @@
+Predictive Maintenance of Mechanical Systems Using Time Series Analysis
+
 Executive Summary
 
 Unplanned machinery downtime in industrial environments can cause severe operational disruptions and financial losses. Predictive maintenance (PdM) provides a proactive solution by forecasting equipment failures, enabling timely interventions that reduce downtime and maintenance costs. This project applies PdM strategies to mechanical systems using the Case Western Reserve University (CWRU) Bearing Dataset, a benchmark in fault diagnosis research. Notably, our models achieved an accuracy rate of 95.96% and an RMSE of 69.52, demonstrating robust predictive capabilities. These results highlight the potential for PdM to enhance operational efficiency and reliability across industries.
